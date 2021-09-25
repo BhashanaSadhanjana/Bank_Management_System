@@ -13,7 +13,6 @@ import javax.persistence.ManyToOne;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-
 public class Accounts {
 
     @Id
